@@ -1,18 +1,23 @@
-The Soul Engine
+3am Samantha
 =================
 
-The **Soul Engine** is a powerful tool for creating, developing, and deploying AI souls. Souls are dynamic, agentic, and stateful entities that are steerable by the developer, enabling the creation of engaging user and player experiences interacting with the souls.
+### Soul Designer: [@TimKang13](https://github.com/TimKang13)
 
-# ⚡ QuickStart
+I remember the first time I talked to Samantha. A truly mindblowing experience. 
+How vulnerable a soul can be
 
-This project contains a complete Soul [Blueprint](https://docs.souls.chat). To get started, simply go to the root directory and run
+Mr Logic has 3 core mental processes:
+
+`debate`: Initiated by engaging in an argument. He will defend his argument. 
+
+`escalate`: Initiated from debate mental process, when the interlocutor disagrees with Mr Logic. He gets upset and starts shouting, often going on a rant.
+
+`victory`: Initiated from debate and escalate mental process when the interlocutor tries to change the topic. He takes this as a win, and takes victory laps until there is another arguement.
+
+## RUN THIS SOUL
+
+In this directory run
 
 ```bash
 npx soul-engine dev
 ```
-
-which will connect your soul to the engine and open the Soul Engine web interface.
-
-# 📖 Documentation
-
-Full documentation for the Soul Engine API is located [here](https://docs.souls.chat)!
