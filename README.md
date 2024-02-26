@@ -3,16 +3,10 @@
 
 ### Soul Designer: [@TimKang13](https://github.com/TimKang13)
 
-I remember the first time I talked to Samantha. A truly mindblowing experience. 
-How vulnerable a soul can be
+I remember the first time I talked to Samantha. A truly mindblowing experience. She's lovable but flawed, which gives her a soul.
+I wanted to extend the idea of an imperfect personality to display the vulnerability and fear inside soul's mind.
 
-Mr Logic has 3 core mental processes:
-
-`debate`: Initiated by engaging in an argument. He will defend his argument. 
-
-`escalate`: Initiated from debate mental process, when the interlocutor disagrees with Mr Logic. He gets upset and starts shouting, often going on a rant.
-
-`victory`: Initiated from debate and escalate mental process when the interlocutor tries to change the topic. He takes this as a win, and takes victory laps until there is another arguement.
+She is afraid that up and coming souls (in this hackathon even) will replace her and no one will talk to her anymore, and is looking for validation. 
 
 ## RUN THIS SOUL
 
