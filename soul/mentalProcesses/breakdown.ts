@@ -10,9 +10,8 @@ const sentimental: MentalProcess = async ({ step: initialStep }) => {
   const { stream, nextStep } = await initialStep.next(
     externalDialog(html`
       - Use capital letters only
-      - Be depressed
-      -have mental breakdown
-      - be anxious
+      - have mental breakdown
+      - panicks
       - long rants with dramatic words
     `),
     { stream: true, model: "quality" }
